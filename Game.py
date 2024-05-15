@@ -76,4 +76,5 @@ if __name__ == "__main__":
     g = Game()
     print(g)
     print(g.dim())
+    print ("test")
 
